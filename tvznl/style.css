@@ -1,0 +1,15 @@
+/*
+Theme Name: TvZNL
+Theme URI: https://thijsva.nzwieten.nl/
+Template: chaplin
+Author: Thijs van Zwieten
+Author URI: https://thijsva.nzwieten.nl/
+Description: Extension of the Chaplin theme with several shortcodes.
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: tvznl
+Tags: blog, portfolio, grid-layout, one-column, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, sticky-post, theme-options, threaded-comments, translation-ready, block-styles, wide-blocks, full-width-template
+
+This theme was derived from the excellent Chaplin by Anders Norén, https://www.andersnoren.se and https://www.andersnoren.se/teman/chaplin-wordpress-theme/.
+The child theme was created in order to extend Chaplin with custom shortcodes and functions, as well as to overwrite the CSS of elements that are not otherwise customizeable.
+*/
